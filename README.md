@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-💪 I'm currently learning Unity<br>🗺️ I speak English and Spanish<br> 🪪 Check my portfolio: https://www.antoniommartel.com/<br>✉️ My email in case you need it 😉: AntonioMMartel@gmail.com<br>
+💪 I'm currently learning Unity<br>🗺️ I speak English and Spanish<br> 🪪 Check my portfolio: <a href="https://www.antoniommartel.com/" target=""></a><br>✉️ My email in case you need it 😉: AntonioMMartel@gmail.com<br>
 
 
 ## 🌐 Socials:
