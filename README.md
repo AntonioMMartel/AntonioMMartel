@@ -4,7 +4,6 @@
 
 # 💫 About Me:
 🎮 Aspiring game dev <br>
-💪 Currently learning Unity <br>
 🗺️ I speak English and Spanish fluently<br> 
 🪪 Check my <a href="https://www.antoniommartel.com/">Portfolio</a><br>
 ✉️ My email for your contact needs 😉: AntonioMMartel@gmail.com<br>
