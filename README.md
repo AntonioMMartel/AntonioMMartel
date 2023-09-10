@@ -3,7 +3,10 @@
 
 
 # 💫 About Me:
-💪 I'm currently learning Unity<br>🗺️ I speak English and Spanish<br> 🪪 Check my <a href="https://www.antoniommartel.com/">Portfolio</a><br>✉️ My email in case you need it 😉: AntonioMMartel@gmail.com<br>
+💪 I'm currently learning Unity <br>
+🗺️ I speak English and Spanish <br> 
+🪪 Check my <a href="https://www.antoniommartel.com/">Portfolio</a><br>
+✉️ My email for your contact needs 😉: AntonioMMartel@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -38,6 +41,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AntonioMMartel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonioMMartel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMMartel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&size_weight=0.3&count_weight=0.7&langs_count=12&layout=donut-vertical)<br/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AntonioMMartel&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
