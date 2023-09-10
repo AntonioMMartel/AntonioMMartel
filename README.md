@@ -39,16 +39,11 @@
 ## Misc
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AntonioMMartel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AntonioMMartel&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMMartel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&size_weight=0.3&count_weight=0.7&langs_count=12&layout=donut-vertical)<br/>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AntonioMMartel&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=AntonioMMartel&icon=0&color=1)](https://visitcount.itsvg.in)
 
 </div>
